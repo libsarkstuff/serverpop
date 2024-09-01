@@ -1,0 +1,6 @@
+{
+  "BotApiKey": "put your api key here",
+  "DataProcessingIntervalMs": 15000,
+  "UserSettingsProcessingIntervalMs": 15000,
+  "ServerStatusMessageId": 1226225483268489216
+}

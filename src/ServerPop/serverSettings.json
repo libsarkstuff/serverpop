@@ -1,0 +1,6 @@
+{
+  "BotApiKey": "put your bot api key here (from discord developer portal)",
+  "DataProcessingIntervalMs": 15000,
+  "UserSettingsProcessingIntervalMs": 15000,
+  "ServerStatusMessageId": 1226225483268489216
+}
